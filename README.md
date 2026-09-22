@@ -36,6 +36,8 @@ Berikut adalah kategori yang sudah tersedia dalam Bahasa Indonesia:
 - [🔍 Mesin Pencari (Search Engine)](content/search_engine.md)
 - [👓 Augmented Reality (AR)](content/augmented_reality.md)
 - [🔽 Klien BitTorrent](content/bittorrent_client.md)
+- [📝 Mesin Templat (Template Engine)](content/template_engine.md)
+- [✍️ Penyunting Teks (Text Editor)](content/text_editor.md)
 - [🌐 Tumpukan Jaringan (Network Stack)](content/network_stack.md)
 
 ## Kategori Lainnya (Dalam Antrean)
