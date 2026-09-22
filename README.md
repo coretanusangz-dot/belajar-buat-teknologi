@@ -34,6 +34,8 @@ Berikut adalah kategori yang sudah tersedia dalam Bahasa Indonesia:
 - [🐳 Docker](content/docker.md)
 - [💻 Emulator / Virtual Machine](content/emulator.md)
 - [🔍 Mesin Pencari (Search Engine)](content/search_engine.md)
+- [👓 Augmented Reality (AR)](content/augmented_reality.md)
+- [🔽 Klien BitTorrent](content/bittorrent_client.md)
 - [🌐 Tumpukan Jaringan (Network Stack)](content/network_stack.md)
 
 ## Kategori Lainnya (Dalam Antrean)
