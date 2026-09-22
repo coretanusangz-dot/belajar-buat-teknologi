@@ -6,40 +6,24 @@ Tujuannya adalah membantu pengembang Indonesia mempelajari cara kerja teknologi 
 
 > *Apa yang tidak bisa saya buat, tidak saya pahami — Richard Feynman.*
 
-## Kategori
+## Daftar Isi (Kategori yang Tersedia)
 
-- 3D Renderer
-- AI Model
-- Augmented Reality
-- BitTorrent Client
-- Blockchain / Cryptocurrency
-- Bot
-- Command-Line Tool
-- Database
-- Docker
-- Emulator / Virtual Machine
-- Front-end Framework / Library
-- Game
-- Git
-- Memory Allocator
-- Network Stack
-- Neural Network
-- Operating System
-- Physics Engine
-- Processor
-- Programming Language
-- Regex Engine
-- Search Engine
-- Shell
-- Template Engine
-- Text Editor
-- Visual Recognition System
-- Voxel Engine
-- Web Browser
-- Web Server
-- Uncategorized
+Berikut adalah kategori yang sudah tersedia dalam Bahasa Indonesia:
+
+- [🤖 Bot](content/bot.md)
+- [💻 Alat Baris Perintah (CLI)](content/cli.md)
+- [💾 Basis Data (Database)](content/database.md)
+- [🧠 Model AI](content/ai_model.md)
+- [⛓️ Blockchain & Kripto](content/blockchain.md)
 
 ---
+
+## Kategori Lainnya (Dalam Antrean)
+
+- 3D Renderer
+- Augmented Reality
+- BitTorrent Client
+- ... (dan kategori lainnya yang belum diterjemahkan)
 
 ## Kontribusi
 
