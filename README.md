@@ -18,9 +18,27 @@ Berikut adalah kategori yang sudah tersedia dalam Bahasa Indonesia:
 
 ---
 
+## Daftar Isi (Kategori yang Tersedia)
+
+- [🤖 Bot](content/bot.md)
+- [💻 Alat Baris Perintah (CLI)](content/cli.md)
+- [💾 Basis Data (Database)](content/database.md)
+- [🧠 Model AI](content/ai_model.md)
+- [⛓️ Blockchain & Kripto](content/blockchain.md)
+- [💻 Sistem Operasi](content/operating_system.md)
+- [🚀 Bahasa Pemrograman](content/programming_language.md)
+- [🎮 Game](content/game.md)
+- [🌐 Web Server](content/web_server.md)
+- [🐙 Git](content/git.md)
+- [🎨 3D Renderer](content/3d_renderer.md)
+- [🐳 Docker](content/docker.md)
+- [💻 Emulator / Virtual Machine](content/emulator.md)
+- [🔍 Mesin Pencari (Search Engine)](content/search_engine.md)
+- [🌐 Tumpukan Jaringan (Network Stack)](content/network_stack.md)
+
 ## Kategori Lainnya (Dalam Antrean)
 
-- 3D Renderer
+- [3D Renderer](content/3d_renderer.md)
 - Augmented Reality
 - BitTorrent Client
 - ... (dan kategori lainnya yang belum diterjemahkan)
